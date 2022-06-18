@@ -1,0 +1,13 @@
+ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 200px;
+}
+
+figure {
+    width: 1200px;;
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+}
